@@ -120,9 +120,9 @@ const SelectItemsScreen = () => {
         <Link
           target="_blank"
           variant="h4"
-          href="https://pshah.ca/Thin_Air_Labs_Developer_Interview_Take_Home_Evaluation.pdf"
+          href="https://pshah.ca/storeAssignment/store_discount_project_demo.pdf"
         >
-          Click here to view the requirements of take home evaluation
+          Click here to view the requirements
         </Link>
         <br />
         <br />
