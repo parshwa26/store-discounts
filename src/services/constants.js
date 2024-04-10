@@ -8,7 +8,7 @@ const constant = {
 
 export const StringConstants = {
   MENU_TITLE: "Tshirt Shopping Demo",
-  HEADING: "Tshirts Sale",
+  HEADING: "Tshirts Sale Demo",
   WARNING_MESSAGE:
     " To see total check out price please select tshirts from below:",
   TOTAL_PRICE_MESSAGE: "Total price after considering best discount offers: $",
