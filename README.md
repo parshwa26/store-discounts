@@ -1,6 +1,6 @@
 # The same web app can also be accessed using below link
 
-https://pshah.ca/storeAssignment/
+https://www.storeassignment.pshah.ca/
 
 # Getting Started with Create React App
 
